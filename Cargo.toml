@@ -1,0 +1,8 @@
+[package]
+name = "simplex"
+version = "0.1.0"
+authors = ["Andrey Kutejko <andy128k@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+num-rational = "0.2"
